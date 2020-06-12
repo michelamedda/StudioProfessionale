@@ -1,0 +1,49 @@
+
+.cont {
+  border: 1px solid lightgrey;
+  height: 300px;
+}
+
+.uno{
+  border: 3px solid lightgrey;
+  height: 100px;
+  width: auto;
+
+}
+.row-striped:nth-of-type(odd){
+  background-color: #efefef;
+  border-left: 4px #000000 solid;
+}
+
+.row-striped:nth-of-type(even){
+  background-color: #ffffff;
+  border-left: 4px #efefef solid;
+}
+
+.row-striped {
+    padding: 15px 0;
+}
+
+.container {
+  border: 1px solid lightgrey;
+  height: 300px;
+}
+
+.amministrazione {
+  border: 1px solid black;
+  height: 300px;
+  border-radius:15px;
+}
+
+.aziendepescaDB {
+  border: 1px solid black;
+  height: 300px;
+  border-radius:15px;
+}
+
+.Servizi {
+  border: 1px solid lightgrey;
+  height: 500px;
+}
+
+.riquadro{background-color: #17a2b8; border: 1px solid #17a2b8;}
